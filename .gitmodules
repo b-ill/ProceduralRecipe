@@ -1,0 +1,3 @@
+[submodule "Assets/corpora"]
+	path = Assets/corpora
+	url = https://github.com/dariusk/corpora
